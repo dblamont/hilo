@@ -14,4 +14,6 @@ Click on the chips on the left side of thr screen to place a bet.
 
 # Run in Gitpod
 
+I should fix this
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dblamont/hilo.git)
