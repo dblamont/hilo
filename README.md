@@ -1,5 +1,5 @@
-# Black-Jack
-A visual game of black jack! Made with pygame.
+# Black-Jack For Now
+A visual game of black jack! Made with pygame.  Borrowed from a youtuber and hopefully being turned into Hi-Lo.
 
 Run the *main.py* script to get started.
 
@@ -18,4 +18,4 @@ You can also run Sudoku-GUI-Solver in Gitpod, a free online dev environment for 
 
 If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Black-Jack/blob/master/main.py)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dblamont/hilo.git)
