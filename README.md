@@ -14,8 +14,4 @@ Click on the chips on the left side of thr screen to place a bet.
 
 # Run in Gitpod
 
-You can also run Sudoku-GUI-Solver in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
-
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dblamont/hilo.git)
