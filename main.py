@@ -194,7 +194,7 @@ def firstStart():
     reset()
     playerChips = 50
     screen.fill((0,128,0))
-    label = myfont.render('Welcome to Black Jack!', 1, (255, 255, 255))
+    label = myfont.render('Welcome to Hi-Lo!  Drink some beer you dirty shit!', 1, (255, 255, 255))
     label2 = myfont.render('Press space to start', 1, (255,255,255))
     screen.blit(label2, (225, 550))
     screen.blit(label, (175, 400))
@@ -559,5 +559,3 @@ def main():
     restart()
 
 firstStart()
-
-
